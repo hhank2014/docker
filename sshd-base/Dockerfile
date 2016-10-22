@@ -1,5 +1,5 @@
 from 192.168.221.100:5000/centos:6.5
-MAINTAINER huang.jie.yellow@gmail.com
+MAINTAINER @gmail.com
 
 ENV TZ "Asia/Shanghai"
 

@@ -1,0 +1,8 @@
+web:
+    build: ./nginx
+    expose:
+        - 80
+mysql:
+    build: ./mysql
+    expose:
+        - 3306
